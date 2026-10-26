@@ -15,6 +15,8 @@
 
 > **SkinPen** = 一支基于 **AS7341 十一通道光谱传感器 + ESP32-S3** 的皮肤检测笔：按下按键 ≈1.5 秒完成光谱采集 → 端侧 305 参数 TinyML 模型直接输出 **肤色 RGB / 冷暖底调 / 肤深等级** → 离线推荐引擎给出 **欧莱雅 True Match 粉底色号 + 口红色号**，全程不联网、数据只存在本地 TF 卡。
 <img width="1672" height="941" alt="SkinPen精致机身设计" src="https://github.com/user-attachments/assets/9697d331-1233-43fc-be4c-e165c1fbf1ea" />
+开源硬件设计电路图：
+<img width="4210" height="2975" alt="SkinPen-Integrated-Schematic" src="https://github.com/user-attachments/assets/50325585-b3cd-44be-915d-49970294dd08" />
 
 ---
 
